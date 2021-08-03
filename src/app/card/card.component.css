@@ -1,0 +1,17 @@
+.row{
+    margin: 40px 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.ul{
+    background-image: linear-gradient(to right, #00653b, #06532d, #074121, #053115, #032107);
+}
+
+.ich{
+    background-image: linear-gradient(to right, #290500, #3b0704, #4d0505, #610304, #740000);
+}
+
+h5{
+    color: cornsilk;
+}
